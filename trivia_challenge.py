@@ -1,7 +1,8 @@
 # Trivia Challenge
 # Trivia game that reads a plain text file
 
-
+#sys module provides information about constants, functions and methods of the Python interpreter
+import sys
 
 def open_file(file_name, mode):
     """Open a file."""
